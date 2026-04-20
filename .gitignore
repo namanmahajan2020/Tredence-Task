@@ -1,0 +1,7 @@
+# Ignore the dataset
+data/
+*.tar.gz
+
+# Ignore the virtual environment
+venv/
+__pycache__/
